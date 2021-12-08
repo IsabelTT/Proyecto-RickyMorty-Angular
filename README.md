@@ -1,3 +1,3 @@
 # Proyecto-RickyMorty-Angular
 
-Proyecto generado con Api de RickyMorty
+Proyecto de Angular generado con Api de RickyMorty  
